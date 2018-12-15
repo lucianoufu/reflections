@@ -27,4 +27,5 @@
 
 ..O comando "git log --graph --oneline branch1 branch2" mostra o historico de todos os comits
 
-..
+..O comando "git remote add origin https://......." cria um novo remote
+..O comando "git push -u origin master" faz uplond dos arquivos para o github
