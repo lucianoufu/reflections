@@ -1,0 +1,25 @@
+﻿1-O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+Ao iniciar um repositorio, o git cria um arquivo oculto chamado .git. Devemos fazer isto para que o git comece a companhar os arquivos que estão na pasta
+
+2-Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+3-Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+
+4-Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+Algumas situações onde branches são ulteis para manter o historio organizado, é quando, em um grande projeto, queremos testar uma nova função que não esta presente no planejamento
+do projeto. Neste caso, seria interesante usar o branches. Os branches ajudaria, pois poderia voltar no codigo original sem probema.
+
+5-Como os diagramas ajudam a visualizar a estrutura de branches?
+
+O diagrama nos a ajuda a visualizar a estrutura, pois, se em um projeto grande, onde existem varios branches, ter um diagrama ajuda o programador a não se perder entre os branches.
+
+6-Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+
+O resultado de dois branches resuta em um novo branch, com as informações dos branches que foram mesclados.
+
+7-Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+
+Mesclagem automática pode juntar partes que você não queria que você mescladas. É melhor fazer mesclagem automaticamente, que evita este tipo de problema.
+

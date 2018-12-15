@@ -1,0 +1,46 @@
+1-Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+
+A visualização de um diff entre duas versões de um arquivo me ajuda a ver um bug que foi introduzido pois ele mostra em qual linha, o arquivo foi modificado. 
+Neste caso, esta linha mode ser modificada por acidente ou pode ter algum erro de ortografia.
+
+
+2-Como usar o histórico para obter eficiência?
+
+Usar o histórico me ajuda a obter eficiencia pois, se ocorrer algum bug ou erro no decorrer de um projeto ou no decorrer de uma análise.
+Com isso, não é preciso ficar proucurando manualmente onde contem um bug.
+
+3-Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
+Ter acesso a todo o histórico de um arquivo pode me tornar um programador melhor, pois posso ver todas as modificações que ocorreram em um certo arquivo, e retornar nesta edição quaquer hora.
+
+4-Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+
+Prós:
+	.Escolher quando salvar o arquivo
+	.Liberdade para nomear os comits
+Contras:
+	.Ter que lembrar de dar comit
+	.Caso ocorra algum imprevisto, como uma queda de energia, o que você estava trabalhando é pertido até o ultimo comit.
+
+
+5-Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+
+Sistemas de controle de versão, como o git, permitem salvar vários arquivos em um commit, pois ele foi feito para desenvolvedores.
+Já o google docs, como foi pensado para varias pessoas ussarem, ele só permite salvar um arquivo por vez, para evitar que o usuario não se sinta dentro de um 'matrix'.
+
+6-Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+
+Para usar o comando git log, é necessario ter um repositorio em sua pasta, o git log verifica todos os comits e mostra ao usuario.
+Já o comando git diff, é usado para comparar duas versões diferentes do mesmo codigo.
+
+6-De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+
+O controle de versão pode me dar mais segurança para fazer alterações pois, mesmo fazendo alterações que danifiquem o codigo, tenho certeza de que poderei voltar em uma versão que não tem o bug.
+
+7-Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+
+Eu, quero usar o git para ter um bom controle de versão.
+
+
+
+

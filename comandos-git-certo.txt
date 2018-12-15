@@ -1,0 +1,30 @@
+﻿..O comando "diff -u old.txt new.txt" compara os dois arquivos e vê oque foi retirado ou adicionado no novo arquivo
+
+..O comando "cd ~"					  abre uma nova pasta.
+	Exemplo:
+	cd downloads
+	cd Nome_da_pasta
+
+..O comando "mkdir Nome_da_pasta"     cria uma nova pasta.
+	Exemplos:
+	mkdir version-control
+	mkdir reflections
+
+..O comando "subl lesson_1_reflections.txt" abre o arquivo : lesson_1_reflections.txt, no subl, 
+  'sublime text'.
+
+..O comando "git log" mostra todos os comits feitos.
+
+..O comando "git diff id1 id2" compara todos os commits entre si.
+
+..O comando "git clone" copia um repositorio de um computador para outro
+
+..O comando "git commit -m "Commit message"" cria um novo commit
+
+..O comando "git branch" mosta todos os branch existentes
+
+..O comando "git branch 'nome do branch' " cria um novo branch
+
+..O comando "git log --graph --oneline branch1 branch2" mostra o historico de todos os comits
+
+..
