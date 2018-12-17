@@ -6,6 +6,9 @@ Ao iniciar um repositorio, o git cria um arquivo oculto chamado .git. Devemos fa
 
 3-Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
 
+  Usar a area de preparação para garantir que tenhamos um comit por logica, pois podemos adicionar varios arquivos à area de preparação, depois junta-los em commits logicos. Isto nos ajudas pois, podemos fazer varias alterações e deixar
+na area de preparação, depois junta-los em apenas um commit.
+
 4-Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
 
 Algumas situações onde branches são ulteis para manter o historio organizado, é quando, em um grande projeto, queremos testar uma nova função que não esta presente no planejamento

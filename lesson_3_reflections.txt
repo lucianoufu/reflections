@@ -1,0 +1,26 @@
+1-Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+
+Eu gostaria de usar um repositório remoto em vez de manter o trabalho local quanto estou trabalhando em grupo, pois varias pessoas podem editar ou comentar o meu projeto,
+por não estar salva no meu computador, e ser um código aberto.
+
+2-Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+
+  As bifurcações, nos ajuda a trabalhar em duas versões separadas de um projeto, depois retorna-las ou junta-las quando quisermos, tudo isto, acontece no github. Geralmente é usado quando há colaboradores em um projeto.
+  Clones, clona ou copia um repositorio diretamente do github. Os clone, copiam todos os arquivos, deste imagens até arquivos .git .
+  Branche é usado quando, em um projeto, há necessidade de dividir o projeto. Este comando é muito parecido com a bifurcação.
+
+3-Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+
+  
+
+4-Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+
+  Em um projeto, usaria colaboração por meio de armazenamento na nuvem, ou encontrar pessoalmente para dar desenvolvimento ao trabalho. Sem o git github, seria muito mais dificil fazer projetos em colaboração.
+
+5-Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+
+  Eu gostaria de fazer alterações em um branch separado, quando estou testando algo em um projeto, ou quero fazer uma coisa diferente do planejado, ou seja, quando quero fazer algo de diferente. Usar um branch separado, nos permite a
+fazer alterações em um projeto sem medo de danificar o projeto em si. Já usar o branch, é bom, pois é posivel voltar a qualquer parte do codigo a partir de commits anteriores.
+
+
+
